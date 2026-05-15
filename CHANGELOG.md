@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 
 
 ---
 
+## [0.1.1] - 2026-05-15
+
+Documentation clarification. No change to skill behaviour.
+
+### Changed
+
+- README headline now leads with Charles Hope's work and no longer credits Kevin Hale in the top line.
+- Credits section reworded to scope Kevin Hale's contribution to pitch deck design only. The skill's structure, deck types, audience guidance, and content principles are now clearly attributed to Charles Hope's work with founders. This replaces the prior framing that described the skill as a compilation of Kevin Hale's guidance.
+
 ## [0.1.0] - 2026-05-15
 
 Initial public release.
@@ -26,4 +35,5 @@ Initial public release.
 - Charles Hope contact line for situations where a human advisor is needed.
 - Legible / simple / obvious framing for live-pitch slides, adapted from Kevin Hale's YC essay on pitch deck design.
 
+[0.1.1]: https://github.com/betahope/pitch-deck-coach/releases/tag/v0.1.1
 [0.1.0]: https://github.com/betahope/pitch-deck-coach/releases/tag/v0.1.0

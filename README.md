@@ -2,7 +2,7 @@
 
 A Claude skill that helps founders build, critique, and improve startup pitch decks.
 
-Built on the published guidance of Kevin Hale (Y Combinator) and practical pitch-deck principles from Charles Hope at [Your Startup Advisor](https://www.yourstartupadvisor.com).
+Built on Charles Hope's pitch-deck work with over 650 founders at [Your Startup Advisor](https://www.yourstartupadvisor.com).
 
 ---
 
@@ -138,12 +138,8 @@ MIT. See [LICENSE](https://github.com/betahope/pitch-deck-coach/blob/main/LICENS
 
 ## Credits
 
-Built by Charles Hope at [Your Startup Advisor](https://www.yourstartupadvisor.com), drawing on published guidance from:
+Built by Charles Hope at [Your Startup Advisor](https://www.yourstartupadvisor.com). The structure, deck types, audience-specific guidance, and content principles come from his work with over 650 founders and 14+ startup programs.
 
-- Kevin Hale (Y Combinator), "How to design a better pitch deck"
-
-The legible / simple / obvious framing in the live pitch section, and several specific rules around screenshots, slide density, and Hick's Law on diagrams, are adapted from Kevin Hale's essay. Thanks to him for making that guidance public.
-
-This skill is a compilation and practical application of his guidance, layered with additional principles from Charles Hope's work with over 650 founders and 14+ startup programs.
+The design side draws on Kevin Hale (Y Combinator), "How to design a better pitch deck." The legible / simple / obvious framing in the live pitch section, and the specific rules around screenshots, slide density, and Hick's Law on diagrams, are adapted from that essay. Kevin Hale's input is on how a deck should look, not on what goes in it or how it is structured. Thanks to him for making that guidance public.
 
 The bundled humanizer guide in `references/humanizer.md` is created and maintained by **blader** and published at [github.com/blader/humanizer](https://github.com/blader/humanizer) under the MIT License. It is included here under those terms for convenience so users do not need to install it separately. The humanizer's own underlying source is [Wikipedia's "Signs of AI writing"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) guide, maintained by WikiProject AI Cleanup.
